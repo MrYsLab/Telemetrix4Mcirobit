@@ -1,0 +1,2 @@
+cd /home/afy/CLionProjects/Telemetrix4Microbit/microbit-v2
+docker run -v $(pwd):/home --rm ghcr.io/carlosperate/microbit-toolchain:latest python build.py

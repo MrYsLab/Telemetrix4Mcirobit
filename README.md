@@ -4,7 +4,7 @@ Telemetrix Servers for the Micro:bit V1 and V2
 This project takes advantage of [the docker tool chain](https://github.com/carlosperate/docker-microbit-toolchain)
 developed by Carlos Pereira Atencio.
 
-Before using attempting to recompile the source code, you must:
+Before attempting to recompile the source code, you must:
 
 1. [Install docker](https://docs.docker.com/desktop/linux/install/) on your system.
 2. If using Linux, make docker available to your login:
